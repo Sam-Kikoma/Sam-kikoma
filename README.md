@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sam Kikoma</h1>
 <h3 align="center">A fullstack developer based in Hungary</h3>
 
-- 🔭 I’m currently working on **my portfolio website**
+- 🔭 I’m currently working on **Petezy Backend System**
 
-- 🌱 I’m currently learning **React Three Fiber**
+- 🌱 I’m currently learning **Nest.JS**
 
 - 📫 How to reach me **kikomasamson@gmail.com**
 
