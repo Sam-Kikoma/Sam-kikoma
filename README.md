@@ -6,11 +6,11 @@ I build scalable, real-time web applications with clean APIs and modern frontend
 Experienced across the full stack—from UI to backend, databases, and DevOps.
 </p>
 
-<p><strong>🚀 Open to Full-Stack / Backend Developer opportunities</strong></p>
+<p><strong>Open to Full-Stack / Backend Developer opportunities</strong></p>
 
 ---
 
-### 🚀 Tech Stack
+### Tech Stack
 - **Frontend:** React, Next.js, SvelteKit, TypeScript, TailwindCSS  
 - **Backend:** Java, Node.js, NestJS, Express, Spring Boot  
 - **Databases:** PostgreSQL, MySQL, Redis  
