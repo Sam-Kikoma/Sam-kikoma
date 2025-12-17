@@ -1,15 +1,44 @@
-<h1 align="center">Hi 👋, I'm Sam Kikoma</h1>
-<h3 align="center">A fullstack developer based in Hungary</h3>
+<h1>Hi 👋, I'm Sam Kikoma</h1>
+<h3>Full-Stack Developer</h3>
 
-- 🔭 I’m currently working on **Petezy Backend System**
+<p>
+I build scalable, real-time web applications with clean APIs and modern frontend stacks.
+Experienced across the full stack—from UI to backend, databases, and DevOps.
+</p>
 
-- 🌱 I’m currently learning **Nest.JS**
+<p><strong>🚀 Open to Full-Stack / Backend Developer opportunities</strong></p>
 
-- 📫 How to reach me **kikomasamson@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/_kikoma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_kikoma" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kedin.com/in/samson-kikoma-a18822229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kedin.com/in/samson-kikoma-a18822229/" height="30" width="40" /></a>
-<a href="https://instagram.com/_kikoma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_kikoma" height="30" width="40" /></a>
+### 🚀 Tech Stack
+- **Frontend:** React, Next.js, SvelteKit, TypeScript, TailwindCSS  
+- **Backend:** Java, Node.js, NestJS, Express, Spring Boot  
+- **Databases:** PostgreSQL, MySQL, Redis  
+- **DevOps:** Docker, Kubernetes, CI/CD, GitHub Actions  
+
+---
+
+### 🔭 Current work
+- Full-Stack Developer at **Petezy** (React & NestJS)
+- Designing and building scalable, performance-focused backend systems
+
+---
+
+### 📌 Projects
+- **Isometric Map Editor** – Real-time collaborative 3D editor using WebSockets  
+- **TypeRacer** – Microservices-based real-time multiplayer system  
+
+---
+
+### 📫 Get in touch
+- **Email:** kikomasamson@gmail.com  
+- **LinkedIn:** <a href="https://linkedin.com/in/samson-kikoma-a188222229/" target="_blank">samson-kikoma</a>
+
+<p>
+<a href="https://twitter.com/_kikoma" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="25" width="35" />
+</a>
+<a href="https://linkedin.com/in/samson-kikoma-a188222229/" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="25" width="35" />
+</a>
 </p>
