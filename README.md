@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Sam Kikoma</h1>
+<h1>Hi 👋, I'm Samson Kikoma</h1>
 <h3>Full-Stack Developer</h3>
 
 ---
@@ -10,15 +10,15 @@ I build fun and interesting user experiences on the web.
 ---
 
 ### Stack
-- **Java, TypeScript, **
-- **React, NestJS, Spring Boot**
+- **TypeScript, Java**
+- **React, NestJS, Spring Boot, Three.JS**
 - **PostgreSQL, Redis**
 - **Docker, Kubernetes**
 
 ---
 
 ### 📌 Key Projects
-- **Isometric Map Editor** – Real-time collaborative web app  
+- **Isometric Map Editor** – Real-time collaborative isometric map editor 
 - **TypeRacer** – Scalable microservices-based multiplayer system  
 
 ---
