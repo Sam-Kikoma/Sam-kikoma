@@ -11,7 +11,7 @@ I build fun and interesting user experiences on the web.
 
 ### Stack
 - **TypeScript, Java**
-- **React, NestJS, Spring Boot, Three.JS**
+- **React, NestJS, Spring Boot, Three.JS, Sveltekit**
 - **PostgreSQL, Redis**
 - **Docker, Kubernetes**
 
